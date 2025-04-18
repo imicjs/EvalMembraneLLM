@@ -1,0 +1,22 @@
+{
+    "nfqa": {
+        "tasks": [],
+        "input_path": "data/nfqa/input/",
+        "demo_path": "data/nfqa/demonstrations/"
+    },
+    "nfqa_open":{
+        "tasks": [],
+        "input_path": "data/nfqa_open/input/",
+        "demo_path": "data/nfqa_open/demonstrations/"
+    },
+    "nfqa_rag": {
+        "tasks": [],
+        "input_path": "data/nfqa_rag/input/",
+        "demo_path": "data/nfqa_rag/demonstrations/"
+    },
+    "nfqa_open_rag":{
+        "tasks": [],
+        "input_path": "data/nfqa_open_rag/input/",
+        "demo_path": "data/nfqa_open_rag/demonstrations/"
+    }
+}
